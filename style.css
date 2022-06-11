@@ -1,0 +1,9 @@
+.countries {
+    display: flex;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.country {
+    margin : 2vw;
+} 
